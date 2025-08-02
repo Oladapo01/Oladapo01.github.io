@@ -65,8 +65,42 @@ ERC20 token with AI-anti-bot and quadratic governance:
 * 📺 Streamlit-based UI + Colab integration
 * 📘 NLP + Price analysis hybrid models
 
-[🔗 Data Science Repo](https://github.com/Oladapo01/dataScience)
 [🔗 Stock Pred Repo](https://github.com/Oladapo01/stockPred)
+
+---
+
+### 🧪 Data Science & Public Health Analytics
+
+* 📊 Explored chronic disease correlations with BMI, hypertension, and smoking history
+* 🧹 Data wrangling, visualization, feature engineering with Python (Pandas, Seaborn, NumPy)
+* 🤖 Classification with logistic regression & Naive Bayes
+* 🎯 Built actionable insights to support public health policy
+
+[🔗 Data Science Project](https://github.com/Oladapo01/dataScience)
+
+---
+
+### ⚙️ DevOps Platform – Collaboration
+
+Built in collaboration: [DevOps\_com619](https://github.com/Oladapo01/Devops_com619)
+
+* 🔐 Implemented backend services: login/signup, user auth
+* 🌍 Configured NGINX reverse proxy and SSL certificates
+* 🌐 Partial implementation of i18n localization
+* 📦 Dockerized microservices and deployed on remote infrastructure
+
+---
+
+### 🗣️ LinguaViva (Final Year Thesis – NLP)
+
+An AI language tutor platform based on BERT and HuggingFace Transformers:
+
+* 🧠 Fine-tuned transformer models for language classification tasks
+* 🧪 NLP performance optimization via hyperparameter tuning
+* 🤝 Collaborative coding and deployment on Google Colab
+* 📚 Focused on education and language learning use cases
+
+[🔗 Colab Demo](https://colab.research.google.com/drive/1eCUYzxJbAfhV2A1iogcWvBR3Alm8zpYj#scrollTo=yC9j3GJ58N4t)
 
 ---
 
