@@ -98,7 +98,56 @@ An AI trading assistant capable of price prediction and analysis for cryptocurre
 * Interactive Streamlit dashboard
 
 [🔗 Stock Pred Repo](https://github.com/Oladapo01/stockPred)
-[🔗 Data Science Repo](https://github.com/Oladapo01/dataScience)
+
+---
+
+## 🧪 Data Science & Public Health Analytics
+
+**Overview**:
+Analyzed chronic disease trends by correlating BMI, hypertension, and smoking history using classification models and data visualization.
+
+**Technologies**:
+
+* Pandas, NumPy, Seaborn, Matplotlib
+* Logistic Regression, Naive Bayes, scikit-learn
+
+**Highlights**:
+
+* Feature engineering and data wrangling
+* Health-focused actionable insights
+* Published on GitHub with code notebooks
+
+[🔗 Data Science Project](https://github.com/Oladapo01/dataScience)
+
+---
+
+## ⚙️ DevOps Platform – Collaboration
+
+**Overview**:
+Collaborative DevOps project with modular microservices and secured backend logic for user management and server config.
+
+**Contributions**:
+
+* Backend: login/signup, user authentication
+* NGINX reverse proxy setup with SSL certificate handling
+* Partial i18n implementation and Dockerized services
+
+[🔗 GitHub Repo](https://github.com/Oladapo01/Devops_com619)
+
+---
+
+## 🗣️ LinguaViva – AI Language Learning Platform
+
+**Overview**:
+Final year thesis project focusing on language learning with transformer models.
+
+**Technologies**:
+
+* HuggingFace Transformers, BERT
+* Google Colab, Python
+* Hyperparameter tuning and NLP optimization
+
+[🔗 Colab Demo](https://colab.research.google.com/drive/1eCUYzxJbAfhV2A1iogcWvBR3Alm8zpYj#scrollTo=yC9j3GJ58N4t)
 
 ---
 
