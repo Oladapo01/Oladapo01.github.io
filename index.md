@@ -58,7 +58,7 @@ ERC20 token with AI-anti-bot and quadratic governance:
 
 ---
 
- ### 🧠 MarketModel *(Autonomous Multi-Agent Market Simulation)*
+### 🧠 MarketModel *(Autonomous Multi-Agent Market Simulation)*
  
 * 🏗️ Built a resilient asynchronous architecture using Python 3.12, PostgreSQL (pgvector), SQLAlchemy, and Redis-backed APScheduler event routing.
 * 🤖 Engineered a dialectical reasoning orchestrator that maps live cross-domain signals (SEC filings, DEX liquidity, news) to causal triggers.
