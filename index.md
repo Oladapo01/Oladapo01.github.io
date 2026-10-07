@@ -1,6 +1,6 @@
 # 👨‍💻 Oladapo Giwa-Daramola – Software Developer
 
-Welcome to my portfolio! I'm a full-stack software engineer and AI researcher passionate about building production-grade software and applied AI tools that empower users and solve real-world problems. This GitHub page showcases my featured projects, skills, and contributions in blockchain, ML, DevOps, and full-stack development.
+Welcome to my portfolio! I'm a full-stack software engineer and AI researcher passionate about bridging complex data with intelligent automation. I specialize in building resilient, production-grade systems—from autonomous multi-agent environments and structured market simulators to full-stack applications that solve real-world problems. This space showcases my featured work across backend architecture, machine learning, distributed systems, and blockchain.
 
 ---
 
@@ -66,7 +66,6 @@ ERC20 token with AI-anti-bot and quadratic governance:
 * 📊 Developed automated background memory resolution to grade cognitive decision quality against realized financial outcomes (MFE, MAE, and PnL).
 * 🌐 Designed dynamic, multi-provider ingestion pipelines (Binance, CoinGecko, Bitget) with resilient circuit breakers and explicit asset identifier mapping.
 
-
 *(Private repo — demo available on request)*
 
 ---
@@ -123,10 +122,11 @@ An AI language tutor platform based on BERT and HuggingFace Transformers:
 
 **Core Expertise**:
 
-* Languages: Python, Java, Kotlin, JS/React, Solidity
-* DevOps: Docker, GitHub Actions, CI/CD, Azure
-* Databases: PostgreSQL, Redis, SQLite, MongoDB
-* ML Tools: PyTorch, TensorFlow, HuggingFace, scikit-learn
+* Languages: Python (asyncio), Kotlin, Java, JavaScript/React, Solidity
+* Architecture & Backend: Event-Driven Systems, Multi-Agent Orchestration, FastAPI, Microservices, Resilience Engineering (Circuit Breakers/Retries)
+* Databases & State: PostgreSQL (pgvector), Redis, SQLAlchemy, MongoDB, SQLite
+* AI & Machine Learning: Applied LLMs (vLLM, reasoning engines), Semantic Embeddings, PyTorch, TensorFlow, HuggingFace
+* DevOps & Infrastructure: Docker, GitHub Actions (CI/CD), Azure, Distributed Task Scheduling (APScheduler)
 * Blockchain: Solidity, Web3, BSC, Ethereum
 
 **Certifications & Memberships**:
