@@ -58,6 +58,19 @@ ERC20 token with AI-anti-bot and quadratic governance:
 
 ---
 
+ ### 🧠 MarketModel *(Autonomous Multi-Agent Market Simulation)*
+ 
+* 🏗️ Built a resilient asynchronous architecture using Python 3.12, PostgreSQL (pgvector), SQLAlchemy, and Redis-backed APScheduler event routing.
+* 🤖 Engineered a dialectical reasoning orchestrator that maps live cross-domain signals (SEC filings, DEX liquidity, news) to causal triggers.
+* 🗄️ Implemented a two-tier episodic memory system for historical analog retrieval, enforcing strict point-in-time (T0) correctness to prevent look-ahead bias.
+* 📊 Developed automated background memory resolution to grade cognitive decision quality against realized financial outcomes (MFE, MAE, and PnL).
+* 🌐 Designed dynamic, multi-provider ingestion pipelines (Binance, CoinGecko, Bitget) with resilient circuit breakers and explicit asset identifier mapping.
+
+
+*(Private repo — demo available on request)*
+
+---
+
 ### 📈 Intelligent Stock Trader *(AI for Crypto & Equity Markets)*
 
 * 💹 XGBoost, LSTM, and sentiment classifiers (TextBlob, Twitter)
